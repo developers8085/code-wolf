@@ -32,7 +32,7 @@
 ---
 ### 🐱My Github stats:
 ![JD Suresh's github stats](https://github-readme-stats.vercel.app/api?username=developers8085&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developers8085)](https://github.com/developers8085/github-readme-stats)
+<--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developers8085)](https://github.com/developers8085/github-readme-stats) -->
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
