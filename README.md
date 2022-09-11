@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning docker,kubernetes,AWS Cloud, Spring Boot, Coding 
 - 💬 Talk to me about cricket, JAVA
 - 😄 Pronouns: He/Him
-[comment]: <>(- 📝 I regulary write articles on [hashnode](https://apoorvtyagi.tech/) (previously on [blogger](https://apoorvtyagi133.blogspot.com/)))
+[//]: #- 📝 I regulary write articles on [hashnode](https://apoorvtyagi.tech/) (previously on [blogger](https://apoorvtyagi133.blogspot.com/))
 
 <p align="center">
 <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="55" height="55"/> 
