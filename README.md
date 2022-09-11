@@ -31,8 +31,8 @@
 
 ---
 ### 🐱My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=apoorvtyagi&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvtyagi&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+![JD Suresh's github stats](https://github-readme-stats.vercel.app/api?username=developers8085&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developers8085&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
@@ -79,6 +79,6 @@ Sunday       91 commits     ███████░░░░░░░░░░�
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 
 ----
-Credit: [Apoorv Tyagi](https://github.com/ApoorvTyagi)
+Credit: [JD Suresh](https://github.com/developers8085)
 
 Last Edited on: 26/11/2020
